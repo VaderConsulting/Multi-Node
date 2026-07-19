@@ -1,0 +1,3959 @@
+{
+  "CurrentSnapshotId": "20260405125958_9fa57e46",
+  "PreviousSnapshotId": "20260405025050_655d5cd5",
+  "IsChanged": true,
+  "ComparisonNote": null,
+  "Changes": [
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Binder",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Binder",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.Binder",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Json",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Json",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Configuration.Json",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.DependencyInjection",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.DependencyInjection",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.DependencyInjection",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.DependencyInjection",
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.DependencyInjection",
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection.Abstractions",
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection.Abstractions",
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.DependencyInjection",
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.DependencyInjection",
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection.Abstractions",
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.DependencyInjection.Abstractions",
+        "Microsoft.Extensions.DependencyInjection"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json",
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration.FileExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILESYSTEMGLOBBING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.FileSystemGlobbing",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.FileSystemGlobbing",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILESYSTEMGLOBBING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.FileProviders.Physical"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.FileSystemGlobbing",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.FileSystemGlobbing",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.Configuration.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Serilog.Extensions.Logging"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Serilog.Extensions.Logging"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Serilog.Extensions.Logging"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Serilog.Extensions.Logging"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging.Abstractions",
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Configuration",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Configuration",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Console",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Console",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Logging.Console",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Options",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Options",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Options.ConfigurationExtensions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Options.ConfigurationExtensions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Logging.Configuration"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Options.ConfigurationExtensions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Options.ConfigurationExtensions",
+        "Microsoft.Extensions.Logging.Configuration",
+        "Microsoft.Extensions.Logging.Console"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Primitives",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Primitives",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Primitives",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Microsoft.Extensions.Primitives",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Extensions.Configuration",
+        "Microsoft.Extensions.Configuration.Abstractions",
+        "Microsoft.Extensions.Configuration.FileExtensions",
+        "Microsoft.Extensions.FileProviders.Abstractions",
+        "Microsoft.Extensions.FileProviders.Physical",
+        "Microsoft.Extensions.Options",
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ],
+      "PreviousDependencyPath": [
+        "Microsoft.Extensions.Primitives",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.Extensions.Primitives",
+        "Microsoft.Extensions.Configuration"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MULTINODENETWORK.COMMON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "MultiNodeNetwork.Common",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "1.0.0",
+      "CurrentResolvedVersion": "1.0.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "MultiNodeNetwork.Common"
+      ],
+      "CurrentDependencyPath": [
+        "MultiNodeNetwork.Common"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": null,
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": null,
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Removed",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MULTINODENETWORK.COMMON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "MultiNodeNetwork.Common",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "1.0.0",
+      "CurrentResolvedVersion": "1.0.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "MultiNodeNetwork.Common"
+      ],
+      "CurrentDependencyPath": [
+        "MultiNodeNetwork.Common"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": null,
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": null,
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Removed",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.3.0",
+      "CurrentResolvedVersion": "4.3.0",
+      "PreviousRequestedVersion": "4.3.0",
+      "CurrentRequestedVersion": "4.3.0",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Serilog.Extensions.Logging",
+        "Serilog.Sinks.File"
+      ],
+      "CurrentDependencyParents": [
+        "Serilog.Extensions.Logging",
+        "Serilog.Sinks.File"
+      ],
+      "PreviousDependencyPath": [
+        "Serilog"
+      ],
+      "CurrentDependencyPath": [
+        "Serilog"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SERILOG",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "4.3.0",
+      "CurrentRequestedVersion": "4.3.0",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.3.0",
+      "CurrentResolvedVersion": "4.3.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "Serilog.Extensions.Logging",
+        "Serilog.Sinks.File"
+      ],
+      "CurrentDependencyParents": [
+        "Serilog.Extensions.Logging",
+        "Serilog.Sinks.File"
+      ],
+      "PreviousDependencyPath": [
+        "Serilog"
+      ],
+      "CurrentDependencyPath": [
+        "Serilog"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.EXTENSIONS.LOGGING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog.Extensions.Logging",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.2",
+      "CurrentResolvedVersion": "9.0.2",
+      "PreviousRequestedVersion": "9.0.2",
+      "CurrentRequestedVersion": "9.0.2",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Serilog.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Serilog.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SERILOG.EXTENSIONS.LOGGING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog.Extensions.Logging",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.2",
+      "CurrentRequestedVersion": "9.0.2",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.EXTENSIONS.LOGGING",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog.Extensions.Logging",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.2",
+      "CurrentResolvedVersion": "9.0.2",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Serilog.Extensions.Logging"
+      ],
+      "CurrentDependencyPath": [
+        "Serilog.Extensions.Logging"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.SINKS.FILE",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog.Sinks.File",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "7.0.0",
+      "CurrentResolvedVersion": "7.0.0",
+      "PreviousRequestedVersion": "7.0.0",
+      "CurrentRequestedVersion": "7.0.0",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Serilog.Sinks.File"
+      ],
+      "CurrentDependencyPath": [
+        "Serilog.Sinks.File"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SERILOG.SINKS.FILE",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog.Sinks.File",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "7.0.0",
+      "CurrentRequestedVersion": "7.0.0",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.SINKS.FILE",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "Serilog.Sinks.File",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "7.0.0",
+      "CurrentResolvedVersion": "7.0.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Serilog.Sinks.File"
+      ],
+      "CurrentDependencyPath": [
+        "Serilog.Sinks.File"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SYSTEM.TEXT.JSON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "System.Text.Json",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "MultiNodeNetwork.Common"
+      ],
+      "CurrentDependencyParents": [
+        "MultiNodeNetwork.Common"
+      ],
+      "PreviousDependencyPath": [
+        "System.Text.Json"
+      ],
+      "CurrentDependencyPath": [
+        "System.Text.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SYSTEM.TEXT.JSON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "System.Text.Json",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SYSTEM.TEXT.JSON",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "System.Text.Json",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [
+        "MultiNodeNetwork.Common"
+      ],
+      "CurrentDependencyParents": [
+        "MultiNodeNetwork.Common"
+      ],
+      "PreviousDependencyPath": [
+        "System.Text.Json"
+      ],
+      "CurrentDependencyPath": [
+        "System.Text.Json"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SYSTEM.THREADING.TASKS.DATAFLOW",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "System.Threading.Tasks.Dataflow",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "System.Threading.Tasks.Dataflow"
+      ],
+      "CurrentDependencyPath": [
+        "System.Threading.Tasks.Dataflow"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SYSTEM.THREADING.TASKS.DATAFLOW",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "System.Threading.Tasks.Dataflow",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.0.6",
+      "CurrentRequestedVersion": "9.0.6",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SYSTEM.THREADING.TASKS.DATAFLOW",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "PackageId": "System.Threading.Tasks.Dataflow",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.0.6",
+      "CurrentResolvedVersion": "9.0.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "System.Threading.Tasks.Dataflow"
+      ],
+      "CurrentDependencyPath": [
+        "System.Threading.Tasks.Dataflow"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    }
+  ],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "Microsoft.Extensions.Configuration",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.Binder",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Configuration.Json",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.DependencyInjection",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Logging",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Logging.Configuration",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Logging.Console",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Options",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Microsoft.Extensions.Primitives",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "MultiNodeNetwork.Common",
+      "ResolvedVersion": "1.0.0",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": null,
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": null,
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Removed",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Package id was not found on nuget.org; confirm private feeds or a replacement package."
+      },
+      "Summary": "Development status is now Removed. Remediation guidance changed."
+    },
+    {
+      "PackageId": "Serilog",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.3.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.3.1."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Serilog.Extensions.Logging",
+      "ResolvedVersion": "9.0.2",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.0."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Serilog.Sinks.File",
+      "ResolvedVersion": "7.0.0",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "7.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "System.Text.Json",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "System.Threading.Tasks.Dataflow",
+      "ResolvedVersion": "9.0.6",
+      "DeterminedUtc": "2026-04-05T12:59:58.9077423+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Development status is now Active."
+    }
+  ]
+}

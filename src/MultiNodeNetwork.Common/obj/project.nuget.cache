@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPf5YpjiS6Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\windo\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.5\\microsoft.netcore.app.runtime.linux-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\9.0.5\\microsoft.netcore.app.runtime.linux-arm64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.5\\microsoft.netcore.app.host.linux-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.5\\microsoft.aspnetcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\9.0.5\\microsoft.aspnetcore.app.runtime.linux-arm64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\9.0.5\\microsoft.netcore.app.host.linux-arm64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.5\\microsoft.netcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.5\\microsoft.netcore.app.runtime.linux-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\9.0.5\\microsoft.netcore.app.runtime.linux-arm64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.5\\microsoft.netcore.app.host.linux-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.5\\microsoft.aspnetcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\9.0.5\\microsoft.aspnetcore.app.runtime.linux-arm64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\9.0.5\\microsoft.netcore.app.host.linux-arm64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.5\\microsoft.netcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
+    "C:\\Users\\windo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

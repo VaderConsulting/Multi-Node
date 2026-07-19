@@ -1,0 +1,15 @@
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0\MultiNodeNetwork.Core.deps.json
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0\MultiNodeNetwork.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0\MultiNodeNetwork.Core.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0\MultiNodeNetwork.Common.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0\MultiNodeNetwork.Common.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNod.2D5BBAD2.Up2Date
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\refint\MultiNodeNetwork.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\MultiNodeNetwork.Core.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0\ref\MultiNodeNetwork.Core.dll

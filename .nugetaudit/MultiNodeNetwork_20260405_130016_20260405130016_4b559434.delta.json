@@ -1,0 +1,535 @@
+{
+  "CurrentSnapshotId": "20260405130016_4b559434",
+  "PreviousSnapshotId": "20260405030849_92ca0edd",
+  "IsChanged": true,
+  "ComparisonNote": null,
+  "Changes": [
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0|NONE|COVERLET.COLLECTOR",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "coverlet.collector",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "6.0.4",
+      "CurrentResolvedVersion": "6.0.4",
+      "PreviousRequestedVersion": "6.0.4",
+      "CurrentRequestedVersion": "6.0.4",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "coverlet.collector"
+      ],
+      "CurrentDependencyPath": [
+        "coverlet.collector"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0-WINDOWS|NONE|COVERLET.COLLECTOR",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "coverlet.collector",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "6.0.4",
+      "CurrentRequestedVersion": "6.0.4",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0-WINDOWS7.0|NONE|COVERLET.COLLECTOR",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "coverlet.collector",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "6.0.4",
+      "CurrentResolvedVersion": "6.0.4",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "coverlet.collector"
+      ],
+      "CurrentDependencyPath": [
+        "coverlet.collector"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0|NONE|MOQ",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "Moq",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.20.72",
+      "CurrentResolvedVersion": "4.20.72",
+      "PreviousRequestedVersion": "4.20.72",
+      "CurrentRequestedVersion": "4.20.72",
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Moq"
+      ],
+      "CurrentDependencyPath": [
+        "Moq"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0-WINDOWS|NONE|MOQ",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "Moq",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "4.20.72",
+      "CurrentRequestedVersion": "4.20.72",
+      "TargetFrameworkMoniker": "net9.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0-WINDOWS7.0|NONE|MOQ",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "Moq",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.20.72",
+      "CurrentResolvedVersion": "4.20.72",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Moq"
+      ],
+      "CurrentDependencyPath": [
+        "Moq"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "xunit.abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "2.0.3",
+      "CurrentResolvedVersion": "2.0.3",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "xunit.extensibility.core"
+      ],
+      "CurrentDependencyParents": [
+        "xunit.extensibility.core"
+      ],
+      "PreviousDependencyPath": [
+        "xunit.abstractions",
+        "xunit.extensibility.core",
+        "xunit.core",
+        "xunit"
+      ],
+      "CurrentDependencyPath": [
+        "xunit.abstractions",
+        "xunit.extensibility.core",
+        "xunit.core",
+        "xunit"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.0.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.0.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/MULTINODENETWORK.SLN|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/TESTS/MULTINODENETWORK.TESTS/MULTINODENETWORK.TESTS.CSPROJ|NET9.0-WINDOWS7.0|NONE|XUNIT.ABSTRACTIONS",
+      "ProjectName": "MultiNodeNetwork.Tests",
+      "PackageId": "xunit.abstractions",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "2.0.3",
+      "CurrentResolvedVersion": "2.0.3",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net9.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "xunit.extensibility.core"
+      ],
+      "CurrentDependencyParents": [
+        "xunit.extensibility.core"
+      ],
+      "PreviousDependencyPath": [
+        "xunit.abstractions",
+        "xunit.extensibility.core",
+        "xunit.core",
+        "xunit"
+      ],
+      "CurrentDependencyPath": [
+        "xunit.abstractions",
+        "xunit.extensibility.core",
+        "xunit.core",
+        "xunit"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.0.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.0.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    }
+  ],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "coverlet.collector",
+      "ResolvedVersion": "6.0.4",
+      "DeterminedUtc": "2026-04-05T13:00:16.7860888+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "Moq",
+      "ResolvedVersion": "4.20.72",
+      "DeterminedUtc": "2026-04-05T13:00:16.7860888+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.20.72",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "xunit.abstractions",
+      "ResolvedVersion": "2.0.3",
+      "DeterminedUtc": "2026-04-05T13:00:16.7860888+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.0.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.0.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    }
+  ]
+}

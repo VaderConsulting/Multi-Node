@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiNodeNetwork.Core", "src\MultiNodeNetwork.Core\MultiNodeNetwork.Core.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiNodeNetwork.Master", "src\MultiNodeNetwork.Master\MultiNodeNetwork.Master.csproj", "{C8AED55A-9460-43FB-9D30-95F0E5301172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiNodeNetwork.Repeater", "src\MultiNodeNetwork.Repeater\MultiNodeNetwork.Repeater.csproj", "{27AD4D36-A940-4C75-A0B5-C2BBDB2AD935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiNodeNetwork.Common", "src\MultiNodeNetwork.Common\MultiNodeNetwork.Common.csproj", "{5E1F108A-ACEC-4778-8BBC-6EF3E12709D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiNodeNetwork.Tests", "tests\MultiNodeNetwork.Tests\MultiNodeNetwork.Tests.csproj", "{C15D2FD0-DAAB-430F-979A-891DB7DAE669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AED55A-9460-43FB-9D30-95F0E5301172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AED55A-9460-43FB-9D30-95F0E5301172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AED55A-9460-43FB-9D30-95F0E5301172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AED55A-9460-43FB-9D30-95F0E5301172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AD4D36-A940-4C75-A0B5-C2BBDB2AD935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AD4D36-A940-4C75-A0B5-C2BBDB2AD935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AD4D36-A940-4C75-A0B5-C2BBDB2AD935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AD4D36-A940-4C75-A0B5-C2BBDB2AD935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1F108A-ACEC-4778-8BBC-6EF3E12709D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1F108A-ACEC-4778-8BBC-6EF3E12709D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1F108A-ACEC-4778-8BBC-6EF3E12709D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1F108A-ACEC-4778-8BBC-6EF3E12709D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15D2FD0-DAAB-430F-979A-891DB7DAE669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15D2FD0-DAAB-430F-979A-891DB7DAE669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15D2FD0-DAAB-430F-979A-891DB7DAE669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15D2FD0-DAAB-430F-979A-891DB7DAE669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12345678-1234-5678-9012-123456789012}
+	EndGlobalSection
+EndGlobal

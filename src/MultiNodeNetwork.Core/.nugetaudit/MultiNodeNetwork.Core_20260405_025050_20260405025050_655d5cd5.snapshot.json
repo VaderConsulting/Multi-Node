@@ -1,0 +1,2796 @@
+{
+  "SnapshotId": "20260405025050_655d5cd5",
+  "CapturedUtc": "2026-04-05T02:50:50.7957952+00:00",
+  "NormalisedContentHash": "78658CBBA0A841C1F6FF61F5E7835E2B49C91EA9FF9E7BB25D7CCE5641085A17",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "MultiNodeNetwork.Core",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+    "SolutionKey": "086CCDF050E1A559",
+    "SourceIdentity": {
+      "IdentityKey": "086CCDF050E1A559",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "3B07717B59AD5D45",
+      "ProjectName": "MultiNodeNetwork.Core",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net9.0;net9.0-windows",
+      "AssetsFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\obj\\project.assets.json",
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "Microsoft.Extensions.Configuration",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json",
+            "Microsoft.Extensions.Logging.Configuration"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json",
+            "Microsoft.Extensions.Logging.Configuration"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration",
+            "Microsoft.Extensions.Configuration.Binder",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.Abstractions",
+            "Microsoft.Extensions.Configuration"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration",
+            "Microsoft.Extensions.Configuration.Binder",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.Abstractions",
+            "Microsoft.Extensions.Configuration"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Binder",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.Binder",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Binder",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.Binder",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Json",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Json",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Configuration.Json",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.DependencyInjection",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.DependencyInjection"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.DependencyInjection",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.DependencyInjection",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.DependencyInjection"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.DependencyInjection",
+            "Microsoft.Extensions.Logging.Abstractions",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console",
+            "Microsoft.Extensions.Options",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.DependencyInjection.Abstractions",
+            "Microsoft.Extensions.DependencyInjection"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.DependencyInjection",
+            "Microsoft.Extensions.Logging.Abstractions",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console",
+            "Microsoft.Extensions.Options",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.DependencyInjection.Abstractions",
+            "Microsoft.Extensions.DependencyInjection"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json",
+            "Microsoft.Extensions.FileProviders.Physical"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.FileProviders.Abstractions",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json",
+            "Microsoft.Extensions.FileProviders.Physical"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.FileProviders.Abstractions",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.FileExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.FileProviders.Physical",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration.FileExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.FileProviders.Physical",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.FileProviders.Physical"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.FileSystemGlobbing",
+            "Microsoft.Extensions.FileProviders.Physical",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILESYSTEMGLOBBING"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.FileProviders.Physical"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.FileSystemGlobbing",
+            "Microsoft.Extensions.FileProviders.Physical",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.Configuration.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILESYSTEMGLOBBING"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console",
+            "Serilog.Extensions.Logging"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console",
+            "Serilog.Extensions.Logging"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging.Abstractions",
+            "Microsoft.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging.Abstractions",
+            "Microsoft.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Configuration",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Configuration",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Console",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Console",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Logging.Console",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Options",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Options",
+            "Microsoft.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Options",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Options",
+            "Microsoft.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Configuration"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Options.ConfigurationExtensions",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Logging.Configuration"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Options.ConfigurationExtensions",
+            "Microsoft.Extensions.Logging.Configuration",
+            "Microsoft.Extensions.Logging.Console"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Primitives",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration",
+            "Microsoft.Extensions.Configuration.Abstractions",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.FileProviders.Abstractions",
+            "Microsoft.Extensions.FileProviders.Physical",
+            "Microsoft.Extensions.Options",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Primitives",
+            "Microsoft.Extensions.Configuration"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "PackageId": "Microsoft.Extensions.Primitives",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Microsoft.Extensions.Configuration",
+            "Microsoft.Extensions.Configuration.Abstractions",
+            "Microsoft.Extensions.Configuration.FileExtensions",
+            "Microsoft.Extensions.FileProviders.Abstractions",
+            "Microsoft.Extensions.FileProviders.Physical",
+            "Microsoft.Extensions.Options",
+            "Microsoft.Extensions.Options.ConfigurationExtensions"
+          ],
+          "DependencyPath": [
+            "Microsoft.Extensions.Primitives",
+            "Microsoft.Extensions.Configuration"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "PackageId": "MultiNodeNetwork.Common",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "MultiNodeNetwork.Common"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MULTINODENETWORK.COMMON"
+        },
+        {
+          "PackageId": "MultiNodeNetwork.Common",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "MultiNodeNetwork.Common"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MULTINODENETWORK.COMMON"
+        },
+        {
+          "PackageId": "Serilog",
+          "RequestedVersion": "4.3.0",
+          "ResolvedVersion": "4.3.0",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Serilog.Extensions.Logging",
+            "Serilog.Sinks.File"
+          ],
+          "DependencyPath": [
+            "Serilog"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.3.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG"
+        },
+        {
+          "PackageId": "Serilog",
+          "RequestedVersion": "4.3.0",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.3.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SERILOG"
+        },
+        {
+          "PackageId": "Serilog",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.3.0",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "Serilog.Extensions.Logging",
+            "Serilog.Sinks.File"
+          ],
+          "DependencyPath": [
+            "Serilog"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.3.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG"
+        },
+        {
+          "PackageId": "Serilog.Extensions.Logging",
+          "RequestedVersion": "9.0.2",
+          "ResolvedVersion": "9.0.2",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Serilog.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.EXTENSIONS.LOGGING"
+        },
+        {
+          "PackageId": "Serilog.Extensions.Logging",
+          "RequestedVersion": "9.0.2",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SERILOG.EXTENSIONS.LOGGING"
+        },
+        {
+          "PackageId": "Serilog.Extensions.Logging",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.2",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Serilog.Extensions.Logging"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.EXTENSIONS.LOGGING"
+        },
+        {
+          "PackageId": "Serilog.Sinks.File",
+          "RequestedVersion": "7.0.0",
+          "ResolvedVersion": "7.0.0",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Serilog.Sinks.File"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "7.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.SINKS.FILE"
+        },
+        {
+          "PackageId": "Serilog.Sinks.File",
+          "RequestedVersion": "7.0.0",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "7.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SERILOG.SINKS.FILE"
+        },
+        {
+          "PackageId": "Serilog.Sinks.File",
+          "RequestedVersion": null,
+          "ResolvedVersion": "7.0.0",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Serilog.Sinks.File"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "7.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.SINKS.FILE"
+        },
+        {
+          "PackageId": "System.Text.Json",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "MultiNodeNetwork.Common"
+          ],
+          "DependencyPath": [
+            "System.Text.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "PackageId": "System.Text.Json",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "PackageId": "System.Text.Json",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [
+            "MultiNodeNetwork.Common"
+          ],
+          "DependencyPath": [
+            "System.Text.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "PackageId": "System.Threading.Tasks.Dataflow",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "System.Threading.Tasks.Dataflow"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SYSTEM.THREADING.TASKS.DATAFLOW"
+        },
+        {
+          "PackageId": "System.Threading.Tasks.Dataflow",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS|NONE|SYSTEM.THREADING.TASKS.DATAFLOW"
+        },
+        {
+          "PackageId": "System.Threading.Tasks.Dataflow",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "System.Threading.Tasks.Dataflow"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SYSTEM.THREADING.TASKS.DATAFLOW"
+        }
+      ],
+      "DependencyEdges": [
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Binder",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Binder",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.FILEEXTENSIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Configuration.Json",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.JSON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.DependencyInjection",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.DependencyInjection",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "ToPackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "ToPackageId": "Microsoft.Extensions.FileSystemGlobbing",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILESYSTEMGLOBBING"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "ToPackageId": "Microsoft.Extensions.FileSystemGlobbing",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILESYSTEMGLOBBING"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.FILEPROVIDERS.PHYSICAL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Binder",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Binder",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "ToPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Logging.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONFIGURATION"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Logging.Console",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING.CONSOLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Binder",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Configuration.Binder",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.CONFIGURATION.BINDER"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.DEPENDENCYINJECTION.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "ToPackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.OPTIONS.CONFIGURATIONEXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.PRIMITIVES"
+        },
+        {
+          "FromPackageId": "MultiNodeNetwork.Common",
+          "ToPackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MULTINODENETWORK.COMMON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "FromPackageId": "MultiNodeNetwork.Common",
+          "ToPackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MULTINODENETWORK.COMMON",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "FromPackageId": "Serilog.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "FromPackageId": "Serilog.Extensions.Logging",
+          "ToPackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|MICROSOFT.EXTENSIONS.LOGGING"
+        },
+        {
+          "FromPackageId": "Serilog.Extensions.Logging",
+          "ToPackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG"
+        },
+        {
+          "FromPackageId": "Serilog.Extensions.Logging",
+          "ToPackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.EXTENSIONS.LOGGING",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG"
+        },
+        {
+          "FromPackageId": "Serilog.Sinks.File",
+          "ToPackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG.SINKS.FILE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0|NONE|SERILOG"
+        },
+        {
+          "FromPackageId": "Serilog.Sinks.File",
+          "ToPackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG.SINKS.FILE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.CORE/MULTINODENETWORK.CORE.CSPROJ|NET9.0-WINDOWS7.0|NONE|SERILOG"
+        }
+      ],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Binder\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Binder",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Binder\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Binder",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.FileExtensions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.FileExtensions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.FileExtensions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Json",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Json",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Configuration.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Configuration.Json",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.DependencyInjection\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.DependencyInjection",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.DependencyInjection\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.DependencyInjection",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.DependencyInjection\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.DependencyInjection",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.DependencyInjection.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.DependencyInjection.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.FileProviders.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.FileProviders.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.FileProviders.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.FileProviders.Physical\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.FileProviders.Physical\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.FileProviders.Physical",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.FileSystemGlobbing\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.FileSystemGlobbing\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.FileSystemGlobbing",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Abstractions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Abstractions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Configuration\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Configuration",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Configuration\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Configuration",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Console\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Console",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Console\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Console",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Logging.Console\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Logging.Console",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Options\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Options\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Options",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Options.ConfigurationExtensions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Options.ConfigurationExtensions\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Primitives\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Extensions.Primitives\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Microsoft.Extensions.Primitives",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Serilog\u0027 4.3.0 is outdated. Latest compatible stable version: 4.3.1.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Serilog\u0027 4.3.0 is outdated. Latest compatible stable version: 4.3.1.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Serilog\u0027 4.3.0 is outdated. Latest compatible stable version: 4.3.1.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Serilog",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Serilog.Extensions.Logging\u0027 9.0.2 is outdated. Latest compatible stable version: 10.0.0.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Serilog.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Serilog.Extensions.Logging\u0027 9.0.2 is outdated. Latest compatible stable version: 10.0.0.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Serilog.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Serilog.Extensions.Logging\u0027 9.0.2 is outdated. Latest compatible stable version: 10.0.0.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "Serilog.Extensions.Logging",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Text.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Text.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Text.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Threading.Tasks.Dataflow\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "System.Threading.Tasks.Dataflow",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Threading.Tasks.Dataflow\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "System.Threading.Tasks.Dataflow",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Threading.Tasks.Dataflow\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Core",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj",
+          "PackageId": "System.Threading.Tasks.Dataflow",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": []
+    }
+  ],
+  "Warnings": [
+    "Package health metadata was not available for \u0027MultiNodeNetwork.Common\u0027 from nuget.org.",
+    "Attention required: 51 package diagnostics are warnings."
+  ]
+}

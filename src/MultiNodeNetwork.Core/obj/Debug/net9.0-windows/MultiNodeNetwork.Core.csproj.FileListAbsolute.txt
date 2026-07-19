@@ -1,0 +1,15 @@
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0-windows\MultiNodeNetwork.Core.deps.json
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0-windows\MultiNodeNetwork.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0-windows\MultiNodeNetwork.Core.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0-windows\MultiNodeNetwork.Common.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\bin\Debug\net9.0-windows\MultiNodeNetwork.Common.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNod.2D5BBAD2.Up2Date
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\refint\MultiNodeNetwork.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\MultiNodeNetwork.Core.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Core\obj\Debug\net9.0-windows\ref\MultiNodeNetwork.Core.dll

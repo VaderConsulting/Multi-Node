@@ -1,0 +1,12 @@
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\bin\Debug\net9.0\MultiNodeNetwork.Common.deps.json
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\bin\Debug\net9.0\MultiNodeNetwork.Common.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\bin\Debug\net9.0\MultiNodeNetwork.Common.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\refint\MultiNodeNetwork.Common.dll
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\MultiNodeNetwork.Common.pdb
+C:\Users\windo\OneDrive\Documents\Development\Multi Node\src\MultiNodeNetwork.Common\obj\Debug\net9.0\ref\MultiNodeNetwork.Common.dll

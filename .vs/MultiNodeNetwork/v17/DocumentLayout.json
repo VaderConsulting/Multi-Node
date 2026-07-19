@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\tests\\multinodenetwork.tests\\masterfailovertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|solutionrelative:tests\\multinodenetwork.tests\\masterfailovertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\tests\\multinodenetwork.tests\\loadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|solutionrelative:tests\\multinodenetwork.tests\\loadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\protocols\\masterelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\protocols\\masterelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\tests\\multinodenetwork.tests\\stresstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|solutionrelative:tests\\multinodenetwork.tests\\stresstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\tests\\multinodenetwork.tests\\networkinterfaceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|solutionrelative:tests\\multinodenetwork.tests\\networkinterfaceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\tests\\multinodenetwork.tests\\messagehandleripupdatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|solutionrelative:tests\\multinodenetwork.tests\\messagehandleripupdatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\tests\\multinodenetwork.tests\\messagehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D2FD0-DAAB-430F-979A-891DB7DAE669}|tests\\MultiNodeNetwork.Tests\\MultiNodeNetwork.Tests.csproj|solutionrelative:tests\\multinodenetwork.tests\\messagehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\services\\imasterelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\services\\imasterelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\services\\platformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\services\\platformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\services\\wifimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\services\\wifimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\services\\networkinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\services\\networkinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\models\\networkmessage\\ipaddressupdatemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\models\\networkmessage\\ipaddressupdatemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\services\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\services\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|c:\\users\\windo\\onedrive\\documents\\development\\multi node\\src\\multinodenetwork.core\\protocols\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\MultiNodeNetwork.Core\\MultiNodeNetwork.Core.csproj|solutionrelative:src\\multinodenetwork.core\\protocols\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkInterfaceServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\NetworkInterfaceServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\MultiNodeNetwork.Tests\\NetworkInterfaceServiceTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\NetworkInterfaceServiceTests.cs",
+              "RelativeToolTip": "tests\\MultiNodeNetwork.Tests\\NetworkInterfaceServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:53:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterFailoverTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\MasterFailoverTests.cs",
+              "RelativeDocumentMoniker": "tests\\MultiNodeNetwork.Tests\\MasterFailoverTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\MasterFailoverTests.cs",
+              "RelativeToolTip": "tests\\MultiNodeNetwork.Tests\\MasterFailoverTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewIkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:53:47.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageHandlerIpUpdateTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\MessageHandlerIpUpdateTests.cs",
+              "RelativeDocumentMoniker": "tests\\MultiNodeNetwork.Tests\\MessageHandlerIpUpdateTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\MessageHandlerIpUpdateTests.cs",
+              "RelativeToolTip": "tests\\MultiNodeNetwork.Tests\\MessageHandlerIpUpdateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:53:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StressTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\StressTests.cs",
+              "RelativeDocumentMoniker": "tests\\MultiNodeNetwork.Tests\\StressTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\StressTests.cs",
+              "RelativeToolTip": "tests\\MultiNodeNetwork.Tests\\StressTests.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwJQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:50:11.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\LoadTests.cs",
+              "RelativeDocumentMoniker": "tests\\MultiNodeNetwork.Tests\\LoadTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\LoadTests.cs",
+              "RelativeToolTip": "tests\\MultiNodeNetwork.Tests\\LoadTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:50:09.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMasterElection.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\IMasterElection.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Services\\IMasterElection.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\IMasterElection.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Services\\IMasterElection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:50:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformService.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\PlatformService.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Services\\PlatformService.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\PlatformService.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Services\\PlatformService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:50:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WifiManager.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\WifiManager.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Services\\WifiManager.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\WifiManager.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Services\\WifiManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:49:16.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NetworkInterfaceService.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\NetworkInterfaceService.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Services\\NetworkInterfaceService.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\NetworkInterfaceService.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Services\\NetworkInterfaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:48:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterElection.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Protocols\\MasterElection.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Protocols\\MasterElection.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Protocols\\MasterElection.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Protocols\\MasterElection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoCAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:47:33.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IpAddressUpdateMessage.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Models\\NetworkMessage\\IpAddressUpdateMessage.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Models\\NetworkMessage\\IpAddressUpdateMessage.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Models\\NetworkMessage\\IpAddressUpdateMessage.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Models\\NetworkMessage\\IpAddressUpdateMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:45:27.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Services\\MessageHandler.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Services\\MessageHandler.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Services\\MessageHandler.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAWwA8BAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:23:50.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Communication.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Protocols\\Communication.cs",
+              "RelativeDocumentMoniker": "src\\MultiNodeNetwork.Core\\Protocols\\Communication.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Core\\Protocols\\Communication.cs",
+              "RelativeToolTip": "src\\MultiNodeNetwork.Core\\Protocols\\Communication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:23:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\MessageHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\MultiNodeNetwork.Tests\\MessageHandlerTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\tests\\MultiNodeNetwork.Tests\\MessageHandlerTests.cs",
+              "RelativeToolTip": "tests\\MultiNodeNetwork.Tests\\MessageHandlerTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:22:21.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

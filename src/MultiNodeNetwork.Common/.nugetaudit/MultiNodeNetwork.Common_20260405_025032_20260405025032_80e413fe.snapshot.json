@@ -1,0 +1,148 @@
+{
+  "SnapshotId": "20260405025032_80e413fe",
+  "CapturedUtc": "2026-04-05T02:50:32.2916213+00:00",
+  "NormalisedContentHash": "C024EDD14AEE9AF34D892A7BF49B2D1A60D44BF5894C948D4F58148FDC129528",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "MultiNodeNetwork.Common",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+    "SolutionKey": "25F5423821EE308F",
+    "SourceIdentity": {
+      "IdentityKey": "25F5423821EE308F",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "9114002F610D1ED4",
+      "ProjectName": "MultiNodeNetwork.Common",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net9.0;net9.0-windows",
+      "AssetsFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\obj\\project.assets.json",
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "System.Text.Json",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "System.Text.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.COMMON/MULTINODENETWORK.COMMON.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.COMMON/MULTINODENETWORK.COMMON.CSPROJ|NET9.0|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "PackageId": "System.Text.Json",
+          "RequestedVersion": "9.0.6",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.COMMON/MULTINODENETWORK.COMMON.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.COMMON/MULTINODENETWORK.COMMON.CSPROJ|NET9.0-WINDOWS|NONE|SYSTEM.TEXT.JSON"
+        },
+        {
+          "PackageId": "System.Text.Json",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.6",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "System.Text.Json"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.COMMON/MULTINODENETWORK.COMMON.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/MULTI NODE/SRC/MULTINODENETWORK.COMMON/MULTINODENETWORK.COMMON.CSPROJ|NET9.0-WINDOWS7.0|NONE|SYSTEM.TEXT.JSON"
+        }
+      ],
+      "DependencyEdges": [],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Text.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Common",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+          "PackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Text.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Common",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+          "PackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Text.Json\u0027 9.0.6 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "MultiNodeNetwork.Common",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Multi Node\\src\\MultiNodeNetwork.Common\\MultiNodeNetwork.Common.csproj",
+          "PackageId": "System.Text.Json",
+          "TargetFrameworkMoniker": "net9.0-windows7.0",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": []
+    }
+  ],
+  "Warnings": [
+    "Attention required: 3 package diagnostics are warnings."
+  ]
+}
