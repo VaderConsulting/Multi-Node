@@ -50,3 +50,8 @@ dotnet build MultiNodeNetwork.sln
 dotnet run --project src/MultiNodeNetwork.Master
 dotnet run --project src/MultiNodeNetwork.Repeater
 ```
+
+## Requirements
+
+- Visual Studio 2022, .NET 9.0
+
