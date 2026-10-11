@@ -28,7 +28,7 @@ Open `MultiNodeNetwork.sln` in Visual Studio.
 
 ## Attribution and provenance
 
-Working copy from my Historical Dev folder. Protocol design and implementation are Dave Robinson / VaderConsulting work in this tree.
+Working copy from my Historical Dev folder. Protocol design and implementation are Dave Robinson / Vader Consulting work in this tree.
 
 ## License
 
